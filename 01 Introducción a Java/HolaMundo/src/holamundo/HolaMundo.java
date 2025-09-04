@@ -96,11 +96,11 @@ public class HolaMundo {
 
 //       //EJERCICIO 9
 
-        Scanner scanner = new Scanner(System.in); 
-        System.out.print("Ingresa tu nombre: "); 
-       //String nombre = scanner.nextInt(); // ERROR 
-        String nombre = scanner.nextLine(); // CORRECCION
-        System.out.println("Hola, " + nombre); 
+//        Scanner scanner = new Scanner(System.in); 
+//        System.out.print("Ingresa tu nombre: "); 
+//       //String nombre = scanner.nextInt(); // ERROR 
+//        String nombre = scanner.nextLine(); // CORRECCION
+//        System.out.println("Hola, " + nombre); 
 } 
 
     }
